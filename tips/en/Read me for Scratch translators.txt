@@ -1,0 +1,16 @@
+Make sure your file names are the same as in English.
+
+You can include PDFs.
+
+Abbreviations in image names:
+
+da = Dance, Dance, Dance tutorial
+nametip - Animate your name tutorial
+pg = Pong Game tutorial
+vp = Virtual pet tutorial   vcv
+
+int = interface 
+
+There are two folders with images that are NOT currently used:
+- Valentine's Card - February only
+- Holiday Card (hour of code) - December only

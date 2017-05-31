@@ -1,0 +1,8 @@
+#!/bin/bash
+# brute force way to generate image html - there are a couple of non-images, so
+# make sure to take those out.
+
+for file in en/*; do
+filename=${file##*/}
+echo "<div class=\"tip-image\"><a href=\"$file\">$filename<br/><img src=\"$file\"/></a></div>"
+done
